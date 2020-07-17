@@ -1,7 +1,7 @@
 MongoDB URL-KISALTMA
 --------------------
 
-**Not:** Uygulamayı çalıştırırken `app.js` den değil `bin/www.js` den çalıştırmanız gerekmektedir!
+**Not:** Uygulamayı çalıştırırken `app.js` den değil `bin/www.js` den çalıştırmanız gerekmektedir! Kolay yol: `npm start`.
 
 **Yapmanız Gerekenler:**
 
